@@ -1,5 +1,10 @@
 {
   "name": "authr",
+  "description": "A simple authentication toolkit solution",
+  "author": {
+    "name": "Bruno Santos",
+    "url": "https://github.com/Brxlx"
+  },
   "version": "0.1.0",
   "private": true,
   "scripts": {
